@@ -1,4 +1,4 @@
-# Add Prometheus Datasources in Grafana
+# Setup log-based Alerts
 
 ## Prerequisite
 
